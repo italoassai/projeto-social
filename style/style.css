@@ -50,3 +50,31 @@
        
  
     }
+
+    section#redes{
+        text-align: right;
+     
+    }
+    section#redes img{
+            width: 50px;
+            margin: 15px;
+            border-radius: 50%;
+            box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.712);
+            box-sizing: border-box;
+    }
+
+     
+      section#redes img:hover{
+        border: 4px solid rgba(255, 255, 255, 0.650);
+        transform: translate( -5px, -5px);
+        box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.712);
+
+        
+
+      }
+      
+        
+    
+        
+       
+    
